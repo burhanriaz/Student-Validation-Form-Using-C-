@@ -1,0 +1,22 @@
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe.config
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\bin\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Validation Form.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Validation Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Form1.resources
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Properties.Resources.resources
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Validation Form.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Validation Form.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Burhan Riaz (Sp20-MCS-036).exe
+C:\Users\pc\Desktop\Burhan Riaz (Sp20-MCS-036)\Validation Form\obj\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+C:\Users\pc\Desktop\Validation Form\Validation Form\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe.config
+C:\Users\pc\Desktop\Validation Form\Validation Form\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe
+C:\Users\pc\Desktop\Validation Form\Validation Form\bin\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Validation Form.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Validation Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\ValidationForm.Form1.resources
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Properties.Resources.resources
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Validation Form.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Validation Form.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Burhan Riaz (Sp20-MCS-036).exe
+C:\Users\pc\Desktop\Validation Form\Validation Form\obj\Debug\Burhan Riaz (Sp20-MCS-036).pdb

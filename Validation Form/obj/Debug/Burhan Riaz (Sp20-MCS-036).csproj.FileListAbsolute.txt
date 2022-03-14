@@ -1,0 +1,17 @@
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe.config
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\bin\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Form1.resources
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Properties.Resources.resources
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).csproj.GenerateResource.Cache
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).exe
+c:\users\mr burhan\documents\visual studio 2012\Projects\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe.config
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).exe
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\bin\Debug\Burhan Riaz (Sp20-MCS-036).exe
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\bin\Debug\Burhan Riaz (Sp20-MCS-036).pdb
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).csprojResolveAssemblyReference.cache
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Form1.resources
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan_Riaz__Sp20_MCS_036_.Properties.Resources.resources
+C:\Users\Mr Burhan\Desktop\Burhan Riaz (Sp20-MCS-036)\Burhan Riaz (Sp20-MCS-036)\obj\Debug\Burhan Riaz (Sp20-MCS-036).csproj.GenerateResource.Cache
